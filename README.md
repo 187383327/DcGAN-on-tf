@@ -11,4 +11,5 @@ and runing your code
 open tensorboard to look at effect and graph. 
 using  tensorboard --logdir=logs   to open tensorboard in terminal
 
+![image](https://github.com/shoutOutYangJie/DcGAN-on-tf/blob/master/training_on_5_epochs/QQ%E6%88%AA%E5%9B%BE20190119180148.jpg)
 
